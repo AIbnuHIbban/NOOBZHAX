@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noobzhax&repo=github-readme-stats)](https://github.com/NOOBZHAX/github-readme-stats)
+![NOOBZHAX github stats](https://github-readme-stats.vercel.app/api?username=noobzhax&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **NOOBZHAX/NOOBZHAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
