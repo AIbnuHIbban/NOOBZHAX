@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=noobzhax&repo=github-readme-stats)](https://github.com/NOOBZHAX/github-readme-stats)
+
 <!--
 **NOOBZHAX/NOOBZHAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
